@@ -64,8 +64,8 @@ A resume builder application that allows users to create, customize, and downloa
       
    - Backend
       - index.js
-      - routes/
-           - route.js
+         - routes/
+            - route.js
       -models/
             - auth.js
       -controllers/
